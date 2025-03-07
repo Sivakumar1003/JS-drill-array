@@ -1,38 +1,35 @@
-# TicTacToe Game
+# JS Drill - Array Methods
 
-A simple implementation of the classic Tic-Tac-Toe game using HTML, CSS, and JavaScript.
+This repository contains JavaScript exercises focusing on array methods. Each file demonstrates the usage of a specific array method with practical examples.
 
 ## Table of Contents
 
-- [Demo](#demo)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Getting Started](#getting-started)
-- [How to Play](#how-to-play)
+- [Files Included](#files-included)
+- [Array Methods Covered](#array-methods-covered)
+- [How to Use](#how-to-use)
 - [Contributing](#contributing)
 - [License](#license)
 
-## Demo
+## Files Included
 
-You can play the game online [here](https://satyamjha1011.github.io/Tic_Tac_Toe_Game/).
+- `each.js`: Demonstrates the usage of the `forEach` method.
+- `filter.js`: Demonstrates the usage of the `filter` method.
+- `find.js`: Demonstrates the usage of the `find` method.
+- `flatten.js`: Demonstrates the usage of array flattening techniques.
+- `map.js`: Demonstrates the usage of the `map` method.
+- `reduce.js`: Demonstrates the usage of the `reduce` method.
 
-## Features
+## Array Methods Covered
 
-- **Player vs Player:** Two players can take turns playing.
-- **Dynamic User Interface:** Interactive game board with responsive UI.
-- **Real-time Status Update:** Displays current player's turn and announces the winner or a draw.
-- **Reset Game:** Option to restart the game at any time.
+1. **forEach**: Executes a provided function once for each array element.
+2. **filter**: Creates a new array with all elements that pass the test implemented by the provided function.
+3. **find**: Returns the value of the first element in the array that satisfies the provided testing function.
+4. **flatten**: Flattens nested arrays into a single array.
+5. **map**: Creates a new array populated with the results of calling a provided function on every element in the calling array.
+6. **reduce**: Executes a reducer function on each element of the array, resulting in a single output value.
 
-## Technologies Used
+## How to Use
 
-- **HTML5:** For structuring the game.
-- **CSS3:** For styling the game, including layout and design.
-- **JavaScript:** For implementing the game logic, including player turns, win checking, and game reset functionality.
-
-## Getting Started
-
-To run the Tic-Tac-Toe game locally:
-
-1. **Clone the repository:**
+1. **Clone the repository**:
    ```bash
-   git clone https://github.com/Sivakumar1003/TicTacToe.git
+   git clone https://github.com/Sivakumar1003/JS-drill-array.git
