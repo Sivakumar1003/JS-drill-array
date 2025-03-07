@@ -7,8 +7,6 @@ This repository contains JavaScript exercises focusing on array methods. Each fi
 - [Files Included](#files-included)
 - [Array Methods Covered](#array-methods-covered)
 - [How to Use](#how-to-use)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Files Included
 
