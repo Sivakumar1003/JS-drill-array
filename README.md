@@ -29,5 +29,19 @@ This repository contains JavaScript exercises focusing on array methods. Each fi
 ## How to Use
 
 1. **Clone the repository**:
-   ```bash
+   ```
    git clone https://github.com/Sivakumar1003/JS-drill-array.git
+   ```
+2. **Navigate to the project directory:**
+   * Open each `.js` file in your preferred code editor to view the examples and explanations.
+   * To execute the code, you can use Node.js:
+   ```
+   node each.js
+   ```
+   Replace `each.js` with the desired file name.
+
+## Contributing
+Contributions are welcome! If you have additional array methods or improvements to suggest, please fork the repository and submit a pull request.
+
+## 🏆 Author
+Developed by [Sivakumar Nanchappan]
